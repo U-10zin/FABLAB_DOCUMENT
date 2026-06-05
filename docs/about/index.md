@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/drive/folders/1HmXWFQ_2-V21nDgd80PEiQ--dv5uXsuJ" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/drive/my-drive" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
