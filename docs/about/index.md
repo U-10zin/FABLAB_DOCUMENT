@@ -31,7 +31,7 @@ title: About Me
 
 > _"Simply Lovely."_
 
-a draft now
+No words cause im ok.
 
 </div>
 
