@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/drive/folders/1HmXWFQ_2-V21nDgd80PEiQ--dv5uXsuJ" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -29,10 +29,9 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Simply Lovely."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+a draft now
 
 </div>
 
@@ -44,16 +43,16 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2026 – Present | 11th grade| The Royal Academy |
+| 2022 – 2026 | Higher Secondary | The Royal Academy |
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
+<span class="skill-badge">Html</span>
+<span class="skill-badge">Laser Cutting</span>
 <span class="skill-badge">MkDocs</span>
 <span class="skill-badge">Git & GitHub</span>
 <span class="skill-badge">3D Printing</span>
@@ -82,7 +81,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
+| :fontawesome-brands-github: GitHub | [U-10zin](https://github.com/U-10zin) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
+| :material-email: Email | [ugyen.tnorbu2022@academy.bt](mailto:ugyen.tnorbu2022@academy.bt) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
