@@ -31,7 +31,7 @@ title: About Me
 
 > _"Simply Lovely."_
 
-No words cause im ok.
+SINNERS
 
 </div>
 
