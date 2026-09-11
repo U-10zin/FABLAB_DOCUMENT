@@ -9,7 +9,7 @@
 
 site_name: Ugyen Tenzin Norbu          # ← Change to your name / project
 site_url: https://U-10zin.github.io/FABLAB_DOCUMENT/  # ← Change: https://<username>.github.io/<repo>/
-site_description: My personal documentation site for showcasing work, learning, and projects.
+site_description: My personal documentation site.
 site_author: UGYEN TENZIN NORBU                  # ← Change to your name
 
 repo_url: https://github.com/U-10zin/FABLAB_DOCUMENT  # ← Change to your GitHub repo URL
